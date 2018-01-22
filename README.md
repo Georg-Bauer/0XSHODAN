@@ -13,5 +13,7 @@ python 0xshodan.py -U USERNAME -P PASSWORD_LIST.txt
 ```
 # Coded By
 Abdullah AlZahrani
+
 Website: www.0xa.tech
+
 Twitter : 0xAbdullah
