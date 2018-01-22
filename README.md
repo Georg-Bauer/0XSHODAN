@@ -8,6 +8,6 @@ Get IPs from shodan.io and brute force SSH automatically
 4) open 0xshodan.py and edit file to "insert your API key" into API_KEY 
 ```
 # Usage
-```python
+```bash
 python 0xshodan.py -U USERNAME -P PASSWORD_LIST.txt
 ```
